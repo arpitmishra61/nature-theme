@@ -16,7 +16,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0"
   },
-"homepage": "http://arpitmishra61.github.io/nature-theme",
+"homepage": "https://arpitmishra61.github.io/nature-theme/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
